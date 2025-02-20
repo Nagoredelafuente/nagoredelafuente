@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Im Nagore Im currently learning about frontend. If you have any questions feel free to ask me!!! Im here to help you. And I hope you like all my proyects. See you on github ;)
 <!--
 **Nagoredelafuente/nagoredelafuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
